@@ -1,2 +1,13 @@
-# Yoga-Pose-Trainer
-The importance of fitness and health is well known in today's era. In our project, we have developed the application that detects the error in your pose while performing a form of exercise, specifically yoga. 
+# yogaPosetrainer
+
+## General info
+This code to develop a application for yoda trainer.
+The trainee will follow the target pose.
+On the screen, we will display: the score, the comment, and the suggestion to have a perfect pose as target
+	
+## Technologies
++ Mediapipe
++ Cosine Similarity
+	
+## Setup
++ Run this code on Jupyter Notebook.
