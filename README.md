@@ -1,5 +1,8 @@
 # Yoga Pose Trainer (Detector and Corrector)
 
+![YOGA POSE TRAINER](target.png)
+![](analysis.png)
+
 The Yoga Pose Trainer (Detector and Corrector) is a Python-based application that detects and corrects yoga poses using computer vision techniques. This project utilizes Python, OpenCV, MediaPipe, NumPy, Pandas, Celluloid, and Pyshine, and implements a Dynamic Time Warping (DTW) algorithm for pose correction.
 
 ## Table of Contents
